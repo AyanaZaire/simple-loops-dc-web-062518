@@ -9,7 +9,7 @@
   #  phrase and break when the counter hits the appropriate number...
 
 def loop_iterator(4)
-  
+  loop do 
   phrase = "Welcome to Flatiron School's Web Development Course!"
   
 end
