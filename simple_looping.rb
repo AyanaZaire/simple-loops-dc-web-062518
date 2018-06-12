@@ -34,8 +34,8 @@ def while_iterator(number_of_times)
   phrase = "Welcome to Flatiron School's Web Development Course!"
   counter = 0
   while counter < 20
-    puts "The current number is less than 20."
-    counter += 1
+    puts 
+    counter += 1"The current number is less than 20."
   end
   
 end
