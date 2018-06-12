@@ -11,7 +11,7 @@
 def loop_iterator(4)
   loop do 
   phrase = "Welcome to Flatiron School's Web Development Course!"
-  if phrase >= 10 
+  if phrase >= 4
     break
 end
 end
